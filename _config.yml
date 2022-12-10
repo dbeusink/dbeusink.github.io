@@ -44,7 +44,7 @@ linkedin_username: dbeusink
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Daan and I'm a <mark>C#</mark> and <mark>PLC</mark> (Siemens, Beckhoff and Sigmatek) software developer. I code industrial software applications for the warehousing and distribution sector. If you have received a parcel from companies like DHL, GLS, Budbee, Zalando, DPD and Fedex your parcel is possibly sorted by the software I made.
+  Hi, my name is Daan and I'm a <mark>C#</mark> and <mark>PLC</mark> (Siemens, Beckhoff and Sigmatek) software developer. I code industrial software applications for the warehousing and distribution sector. If you have received a parcel from companies like DHL, GLS, Budbee, Zalando, DPD and Fedex your parcel is possibly sorted by the software I made.
 
 content:
   - title: Experience # Title for the section
