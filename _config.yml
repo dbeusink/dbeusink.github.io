@@ -45,11 +45,14 @@ linkedin_username: dbeusink
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   👨‍💻 Welcome to my digital realm! I'm Daan, a wizard of code with a passion for crafting digital solutions that power the heart of industrial innovation. 🚀
+  
   In my previous life, I waltzed with Programmable Logic Controllers (PLCs), choreographing intricate routines for machines. Today, I've evolved into a C# sorcerer, conjuring software that orchestrates the dance of efficiency in the bustling realm of warehouse and distribution. 📦
+  
   Currently, I wield my digital wand at FORTNA, where I fuse logic and creativity to sculpt applications that transform warehouses into symphonies of productivity. 🛠️ My code isn't just lines; it's the rhythm of conveyor belts, the harmony of automated processes, and the melody of streamlined operations.
+  
   Beyond the screen and keyboard, I'm a bonafide people-person, forever curious about the tales that span the globe. ✈️ My enthusiasm for life is matched only by my zest for social adventures. Whether I'm exploring new cities or unraveling the intricacies of a complex problem, I'm all in, heart and mind.
+  
   So, join me on this digital journey as we navigate the realms of code, innovation, and the uncharted territories of technology. Let's blend bits and bytes with a touch of wanderlust and create something magical together! 🌟
-  (ChatGPT 2023)
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -62,6 +65,7 @@ content:
         caption: August 2021 - present
         description: | # this will include new lines to allow paragraphs
             As a skilled C# software developer at FORTNA, I specialize in crafting advanced Warehouse Management System (WMS) solutions tailored to the dynamic needs of the warehouse and distribution sector. Through innovative coding and intricate problem-solving, I am dedicated to optimizing operations, enhancing efficiency, and revolutionizing supply chain management. My role encompasses the design, development, and implementation of cutting-edge software that powers seamless logistics and elevates the industry standard.
+            
             <mark>C#</mark> <mark>.NET</mark> <mark>WPF</mark> <mark>SQL</mark> <mark>ASP.NET Core</mark> <mark>Blazor</mark>
       - layout: left
         title: Westover
@@ -71,6 +75,7 @@ content:
         caption: March 2019 - August 2021
         description: | # this will include new lines to allow paragraphs
             I am a seasoned professional at Westover, excelling in C# software development and holding senior expertise in PLC programming. In this capacity, I specialize in crafting sophisticated Warehouse Management System (WMS) software solutions and industrial PLC programs, catering to a diverse range of clients. Through a blend of advanced coding and extensive automation knowledge, I am dedicated to delivering high-impact solutions that redefine efficiency and operational excellence across multiple industries.
+            
             <mark>C#</mark> <mark>.NET</mark> <mark>WPF</mark> <mark>SQL</mark> <mark>Siemens</mark> <mark>Beckhoff</mark> <mark>Sigmatek</mark>
       - layout: left
         title: VanRiet Material Handling Systems
@@ -80,6 +85,7 @@ content:
         caption: October 2015 - March 2019
         description: | # this will include new lines to allow paragraphs
             As a dedicated PLC Software Engineer at VanRiet Material Handling Systems, my focus lies in crafting intricate software solutions tailored to industrial sorting systems. With precision and expertise, I develop and optimize PLC programs that drive the seamless functioning of these systems, contributing to enhanced efficiency and accuracy in material handling operations. Through a combination of technical prowess and a deep understanding of automation, I am committed to delivering software that powers the next level of innovation in modern manufacturing and logistics.
+            
             <mark>Siemens S7 (S7-300, S7-400)</mark><mark>Siemens TIA Portal (S7-1500)</mark><mark>C#</mark>
 
   - title: Education # Title for the section
