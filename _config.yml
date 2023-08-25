@@ -86,7 +86,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             As a dedicated PLC Software Engineer at VanRiet Material Handling Systems, my focus lies in crafting intricate software solutions tailored to industrial sorting systems. With precision and expertise, I develop and optimize PLC programs that drive the seamless functioning of these systems, contributing to enhanced efficiency and accuracy in material handling operations. Through a combination of technical prowess and a deep understanding of automation, I am committed to delivering software that powers the next level of innovation in modern manufacturing and logistics.
             
-            <mark>Siemens S7 (S7-300, S7-400)</mark><mark>Siemens TIA Portal (S7-1500)</mark><mark>C#</mark>
+            <mark>Siemens S7 (S7-300, S7-400)</mark> <mark>Siemens TIA Portal (S7-1500)</mark> <mark>C#</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
