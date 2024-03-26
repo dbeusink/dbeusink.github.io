@@ -53,6 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   Beyond my work, I'm a people-person with a passion for exploring the world. ✈️ Whether I'm traveling or solving complex problems, I'm fully engaged and eager to learn.
 
   Join me on this digital journey as we explore the realms of code, innovation, and technology. Let's collaborate and create something remarkable together! 🌟
+
   <mark>ChatGPT-3.5</mark>
 content:
   - title: Experience # Title for the section
@@ -102,7 +103,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Join me in advancing the industrial landscape through innovative software solutions that bridge the gap between cutting-edge technology and operational excellence. Let's collaborate to transform challenges into opportunities and propel industries into a new era of efficiency and advancement.
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
