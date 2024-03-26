@@ -53,6 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
   Beyond the screen and keyboard, I'm a bonafide people-person, forever curious about the tales that span the globe. ✈️ My enthusiasm for life is matched only by my zest for social adventures. Whether I'm exploring new cities or unraveling the intricacies of a complex problem, I'm all in, heart and mind.
   
   So, join me on this digital journey as we navigate the realms of code, innovation, and the uncharted territories of technology. Let's blend bits and bytes with a touch of wanderlust and create something magical together! 🌟
+  
+  <mark>ChatGPT-3.5</mark>
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
