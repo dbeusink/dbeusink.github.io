@@ -21,7 +21,7 @@ github_username:  dbeusink
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: daanbeusink
+#instagram_username: daanbeusink
 linkedin_username: dbeusink
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -44,16 +44,15 @@ linkedin_username: dbeusink
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  👨‍💻 Welcome to my digital realm! I'm Daan, a wizard of code with a passion for crafting digital solutions that power the heart of industrial innovation. 🚀
-  
-  In my previous life, I waltzed with Programmable Logic Controllers (PLCs), choreographing intricate routines for machines. Today, I've evolved into a C# sorcerer, conjuring software that orchestrates the dance of efficiency in the bustling realm of warehouse and distribution. 📦
-  
-  Currently, I wield my digital wand at FORTNA, where I fuse logic and creativity to sculpt applications that transform warehouses into symphonies of productivity. 🛠️ My code isn't just lines; it's the rhythm of conveyor belts, the harmony of automated processes, and the melody of streamlined operations.
-  
-  Beyond the screen and keyboard, I'm a bonafide people-person, forever curious about the tales that span the globe. ✈️ My enthusiasm for life is matched only by my zest for social adventures. Whether I'm exploring new cities or unraveling the intricacies of a complex problem, I'm all in, heart and mind.
-  
-  So, join me on this digital journey as we navigate the realms of code, innovation, and the uncharted territories of technology. Let's blend bits and bytes with a touch of wanderlust and create something magical together! 🌟
-  
+  👨‍💻 Welcome to my digital domain! I'm Daan, a coding enthusiast dedicated to crafting digital solutions that power industrial innovation. 🚀
+
+  In my previous role, I specialized in Programmable Logic Controllers (PLCs), creating precise routines for machines. Today, I leverage my expertise in C# to develop software that optimizes warehouse and distribution operations. 📦
+
+  At FORTNA, I apply logic and creativity to build applications that enhance productivity in warehouses. 🛠️ My code is more than just lines; it drives the efficiency of conveyor belts, automates processes, and streamlines operations.
+
+  Beyond my work, I'm a people-person with a passion for exploring the world. ✈️ Whether I'm traveling or solving complex problems, I'm fully engaged and eager to learn.
+
+  Join me on this digital journey as we explore the realms of code, innovation, and technology. Let's collaborate and create something remarkable together! 🌟
   <mark>ChatGPT-3.5</mark>
 content:
   - title: Experience # Title for the section
@@ -66,7 +65,7 @@ content:
         sub_title: C# Software Engineer
         caption: August 2021 - present
         description: | # this will include new lines to allow paragraphs
-            As a skilled C# software developer at FORTNA, I specialize in crafting advanced Warehouse Management System (WMS) solutions tailored to the dynamic needs of the warehouse and distribution sector. Through innovative coding and intricate problem-solving, I am dedicated to optimizing operations, enhancing efficiency, and revolutionizing supply chain management. My role encompasses the design, development, and implementation of cutting-edge software that powers seamless logistics and elevates the industry standard.
+            As a skilled C# software developer at FORTNA, I specialize in crafting advanced Warehouse Management System (WMS) solutions tailored to the dynamic needs of the warehouse, distribution, and parcel sectors. Through innovative coding and intricate problem-solving, I am dedicated to optimizing operations and enhancing efficiency. My role encompasses the design, development, and implementation of cutting-edge software that powers seamless logistics and elevates the industry standard.
             
             <mark>C#</mark> <mark>.NET</mark> <mark>WPF</mark> <mark>SQL</mark> <mark>ASP.NET Core</mark> <mark>Blazor</mark>
       - layout: left
@@ -88,7 +87,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             As a dedicated PLC Software Engineer at VanRiet Material Handling Systems, my focus lies in crafting intricate software solutions tailored to industrial sorting systems. With precision and expertise, I develop and optimize PLC programs that drive the seamless functioning of these systems, contributing to enhanced efficiency and accuracy in material handling operations. Through a combination of technical prowess and a deep understanding of automation, I am committed to delivering software that powers the next level of innovation in modern manufacturing and logistics.
             
-            <mark>Siemens S7 (S7-300, S7-400)</mark> <mark>Siemens TIA Portal (S7-1500)</mark> <mark>C#</mark>
+            <mark>Siemens S7 (S7-300, S7-400)</mark> <mark>Siemens TIA Portal (S7-1500)</mark> <mark>VBA</mark> <mark>C#</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -101,7 +100,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Join me in revolutionizing the industrial warehouse and distribution sector through innovative software solutions that bridge the gap between cutting-edge technology and operational excellence. Let's collaborate to transform challenges into opportunities and propel the industry into a new era of efficiency and advancement.
+      Join me in advancing the industrial landscape through innovative software solutions that bridge the gap between cutting-edge technology and operational excellence. Let's collaborate to transform challenges into opportunities and propel industries into a new era of efficiency and advancement.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
