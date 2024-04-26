@@ -30,9 +30,6 @@ linkedin_username: dbeusink
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-- title: KVK 93728980
-  icon: fas fa-stamp
-  url: https://www.kvk.nl/bestellen/#/93728980000059251050
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -104,7 +101,7 @@ content:
       Join me in advancing the industrial landscape through innovative software solutions that bridge the gap between cutting-edge technology and operational excellence. Let's collaborate to transform challenges into opportunities and propel industries into a new era of efficiency and advancement.
 # Footer
 footer_show_references: false
-# references_title: References on request (Override references text)
+references_title: KVK 93728980
 
 # Build settings
 remote_theme: sproogen/resume-theme
