@@ -65,7 +65,17 @@ content:
         description: | # this will include new lines to allow paragraphs
             As a skilled C# software developer at FORTNA, I specialize in crafting advanced Warehouse Management System (WMS) solutions tailored to the dynamic needs of the warehouse, distribution, and parcel sectors. Through innovative coding and intricate problem-solving, I am dedicated to optimizing operations and enhancing efficiency. My role encompasses the design, development, and implementation of cutting-edge software that powers seamless logistics and elevates the industry standard.
             
-            <mark>C#</mark> <mark>.NET</mark> <mark>WPF</mark> <mark>SQL</mark> <mark>ASP.NET Core</mark> <mark>Blazor</mark>
+            <mark>C#</mark> <mark>.NET</mark> <mark>WPF</mark> <mark>SQL</mark> <mark>ASP.NET Core</mark> <mark>Blazor</mark> <mark>Azure DevOps</mark>
+      - layout: left
+        title: Beus.ink
+        link: beus.ink
+        # link_text: boringcompany.com
+        sub_title: Self-employed / C# Software Engineer
+        caption: August 2024 - present
+        description: | # this will include new lines to allow paragraphs
+            Freelance C# Software Engineer.
+            
+            <mark>C#</mark> <mark>.NET</mark> <mark>WPF</mark> <mark>SQL</mark> <mark>ASP.NET Core</mark> <mark>Blazor</mark> <mark>Azure DevOps</mark>
       - layout: left
         title: Westover
         link: westover.nl
